@@ -1,4 +1,4 @@
-# TP Machine Learning : classification des iris
+# TP 0 : classification des iris
 
 Ce dépôt contient un notebook pédagogique pour Google Colab : [tp0.ipynb](tp0.ipynb).
 
